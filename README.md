@@ -11,7 +11,7 @@ Para usar css modular se crean Product.module.css y Products.module.css, donde s
 
 Finalmente se renderiza la vista Home en index.tsx
 
-###Para ejecutarlo ejecute los siguientes comandos
+### Para ejecutarlo ejecute los siguientes comandos
 ```
 npm install
 ```
