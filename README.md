@@ -1,3 +1,5 @@
+## Desafio para Introducción a React
+
 Este es una práctica de uso y estructura de componentes y contenedores de React.
 
 El componente Product es una card de Bootstrap
@@ -9,6 +11,10 @@ Para usar css modular se crean Product.module.css y Products.module.css, donde s
 
 Finalmente se renderiza la vista Home en index.tsx
 
-Para ejecutarlo ejecute los siguientes comandos
-### `npm install`
-### `npm start`
+###Para ejecutarlo ejecute los siguientes comandos
+```
+npm install
+```
+```
+npm start
+```
